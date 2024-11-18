@@ -14,11 +14,13 @@
         <img src="images/p1.jpg" align='left'/>
 
 
+
         또한 아래 사진을 통해 문제 해결 코드가 작성되어 있음을 확인
 
   
         <img src="images/p2.jpg" align='left'/>
         
+
     
 - [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -35,6 +37,7 @@
         <img src="images/p8.jpg" align='left'/>
 
 
+
 - [O]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
     - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
@@ -47,6 +50,8 @@
  
       
         <img src="images/p8.jpg" align='left'/>
+
+
         
 - [O]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
@@ -60,11 +65,13 @@
       
         <img src="images/p6.jpg" align='left'/>
  
-        
+
+
         또한 아래 사진을 통해 머리 각도에 따른 스티커 회전/왜곡에 대한 내용을 고찰하고, 해당 사항에 대하여 내용정리 및 한계점 등을 회고하것을 확인
  
       
         <img src="images/p7.jpg" align='left'/>
+
 
         
 - [O]  **5. 코드가 간결하고 효율적인가요?**
@@ -76,12 +83,14 @@
  
       
         <img src="images/p3.jpg" align='left'/>
+
  
         
         함수 작동 및 결과
  
       
         <img src="images/p4.jpg" align='left'/>
+
 
       
 
