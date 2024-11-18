@@ -40,7 +40,7 @@
 
 
 
-<img src="images/p8.png" align='left'/>
+<img src="images/p8.png"/>
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-<img src="images/p8.png" align='left'/>
+<img src="images/p8.png"/>
 
 
 
@@ -69,7 +69,7 @@
 
 
 
-<img src="images/p6.png" align='left'/>
+<img src="images/p6.png"/>
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-<img src="images/p7.png" align='left'/>
+<img src="images/p7.png"/>
 
 
 
@@ -93,7 +93,7 @@
 
 
 
-<img src="images/p3.png" align='left'/>
+<img src="images/p3.png"/>
 
 
 
@@ -101,7 +101,7 @@
 
 
 
-<img src="images/p4.png" align='left'/>
+<img src="images/p4.png"/>
 
 
 
