@@ -14,7 +14,7 @@
 
 <img src="images/p1.png" align='left'/>
 
-
+&nbsp;
 
 또한 아래 사진을 통해 문제 해결 코드가 작성되어 있음을 확인
 
