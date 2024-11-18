@@ -11,13 +11,13 @@
         아래 사진을 확인하면 정확한 위치에 스티커가 위치함을 알 수 있음
 
   
-        <img src="images/p1.jpg" align='left' width="300" height="300"/>
+        <img src="images/p1.jpg" align='left'/>
 
 
         또한 아래 사진을 통해 문제 해결 코드가 작성되어 있음을 확인
 
   
-        <img src="images/p2.jpg" align='left' width="300" height="300"/>
+        <img src="images/p2.jpg" align='left'/>
         
     
 - [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -32,7 +32,7 @@
         아래 사진을 통해 이미지의 밝기를 보정한 후 스티커를 적용하는 범위를 탐색하는 과정을 확인하기 쉽게 작성해놓았음을 확인
  
       
-        <img src="images/p8.jpg" align='left' width="300" height="300"/>
+        <img src="images/p8.jpg" align='left'/>
 
 
 - [O]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
@@ -46,7 +46,7 @@
         아래 사진을 통해 문제 상황에 대하여 인식하고, 이를 이용하여 문제를 해결한 방법을 제시하고 수행하였음을 확인
  
       
-        <img src="images/p8.jpg" align='left' width="300" height="300"/>
+        <img src="images/p8.jpg" align='left'/>
         
 - [O]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
@@ -58,13 +58,13 @@
         아래 사진을 통해 baseline 모델을 수행하고 생길 수 있는 문제점에 대한 고려와, 회고를 진행하였음을 확인
  
       
-        <img src="images/p6.jpg" align='left' width="300" height="300"/>
+        <img src="images/p6.jpg" align='left'/>
  
         
         또한 아래 사진을 통해 머리 각도에 따른 스티커 회전/왜곡에 대한 내용을 고찰하고, 해당 사항에 대하여 내용정리 및 한계점 등을 회고하것을 확인
  
       
-        <img src="images/p7.jpg" align='left' width="300" height="300"/>
+        <img src="images/p7.jpg" align='left'/>
 
         
 - [O]  **5. 코드가 간결하고 효율적인가요?**
@@ -75,13 +75,13 @@
         아래 사진을 확인하면, 이미지의 발기를 조절하고, 이를 기반으로 정해진 스티커를 붙이는 코드를 함수로 간편화 하였음을 확인
  
       
-        <img src="images/p3.jpg" align='left' width="300" height="300"/>
+        <img src="images/p3.jpg" align='left'/>
  
         
         함수 작동 및 결과
  
       
-        <img src="images/p4.jpg" align='left' width="300" height="300"/>
+        <img src="images/p4.jpg" align='left'/>
 
       
 
